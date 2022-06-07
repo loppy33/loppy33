@@ -1,20 +1,43 @@
 ![Header](https://github.com/loppy33/loppy33/blob/main/assets/623A5B31-3B3D-4CD7-B814-73D09C8F0CEE.gif)
 
-## I am a developer of bots for social networks and websites
+<h1 align="center">
+  <b>walpuper#2663</b>
+</h1>
 
-### Language and more
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) 
-![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=ffffff)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+Hey! My name is Nikita, I'm a social media and web bot developer.
 
-### Something
-![W](https://img.shields.io/badge/-W-ffffff?style=for-the-badge)
-![A](https://img.shields.io/badge/-A-090909?style=for-the-badge)
-![L](https://img.shields.io/badge/-L-ffffff?style=for-the-badge)
-![P](https://img.shields.io/badge/-P-090909?style=for-the-badge)
-![U](https://img.shields.io/badge/-U-ffffff?style=for-the-badge)
-![E](https://img.shields.io/badge/-E-090909?style=for-the-badge)
-![R](https://img.shields.io/badge/-R-ffffff?style=for-the-badge)
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Nikita";
+    self.username = "walpuper";
+    self.location = "Cannes, France";
+    self.discord = "walpuper#2663";
+    self.telegram = "qqbbsb"
+
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Walpuper()
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/7o4wtswiio3fy4rwso4pogfu2">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+
+
