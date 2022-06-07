@@ -17,7 +17,7 @@
 </p>
 
 ```python
-class AbhigyanTrips():
+class Walpuper():
     
   def __init__(self):
     self.name = "Nikita";
