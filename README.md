@@ -20,10 +20,10 @@
 class Walpuper():
     
   def __init__(self):
-    self.name = "Nikita";
-    self.username = "walpuper";
-    self.location = "Cannes, France";
-    self.discord = "walpuper#2663";
+    self.name = "Nikita"
+    self.username = "walpuper"
+    self.location = "Cannes, France"
+    self.discord = "walpuper#2663"
     self.telegram = "qqbbsb"
 
   def __str__(self):
