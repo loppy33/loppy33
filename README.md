@@ -4,7 +4,7 @@
   <b>walpuper#2663</b>
 </h1>
 
-## Hey! My name is Nikita, I'm a social media bot and website developer.
+## Hey! My name is Nikita, I'm a social media bot&website developer.
 
 <br>
 
