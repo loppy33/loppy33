@@ -1,5 +1,6 @@
-![Header](https://github.com/loppy33/loppy33/blob/main/assets/1.gif)
-
+<div align="center">
+  ![Header](https://github.com/loppy33/loppy33/blob/main/assets/1.gif)
+</div>
 <h1 align="center">
   <b>walpuper#2663</b>
 </h1>
