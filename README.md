@@ -3,10 +3,8 @@
   
 </div>
 <h1 align="center">
-  <b>dsc: walpuper#2663</b>
+  <b>Hey! My name is Nikita, I'm a social media bot&website developer.</b>
 </h1>
-
-## Hey! My name is Nikita, I'm a social media bot&website developer.
 
 <br>
 
