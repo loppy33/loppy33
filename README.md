@@ -16,21 +16,22 @@
 </div>
 </p>
 
-```python
-class Walpuper():
-    
-  def __init__(self):
-    self.name = "Nikita"
-    self.username = "walpuper"
-    self.discord = "walpuper#2663"
-    self.telegram = "qqbbsb"
+<div align="center">
+  ```python
+  class Walpuper():
 
-  def __str__(self):
-    return self.name
+    def __init__(self):
+      self.name = "Nikita"
+      self.username = "walpuper"
+      self.discord = "walpuper#2663"
+      self.telegram = "qqbbsb"
 
-if __name__ == '__main__':
-    me = Walpuper()
-```
+    def __str__(self):
+      return self.name
 
+  if __name__ == '__main__':
+      me = Walpuper()
+  ```
+</div>
 
 
