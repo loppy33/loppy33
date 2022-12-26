@@ -32,11 +32,5 @@ if __name__ == '__main__':
     me = Walpuper()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/7o4wtswiio3fy4rwso4pogfu2">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 
 
