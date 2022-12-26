@@ -1,5 +1,6 @@
 <div align="center">
-  ![Header](https://github.com/loppy33/loppy33/blob/main/assets/1.gif)
+  <img src="https://giffiles.alphacoders.com/132/13220.gif">
+  
 </div>
 <h1 align="center">
   <b>walpuper#2663</b>
