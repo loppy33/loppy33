@@ -16,7 +16,7 @@
 </div>
 </p>
 
-<div align="center">
+
   ```python
   class Walpuper():
 
@@ -32,6 +32,6 @@
   if __name__ == '__main__':
       me = Walpuper()
   ```
-</div>
+
 
 
