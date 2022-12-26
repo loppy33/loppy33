@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1039571995127451780/1056983353796075602/ezgif.com-gif-maker_-_2022-10-01T184853.460.gif">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif.gif">
   
 </div>
 <h1 align="center">
