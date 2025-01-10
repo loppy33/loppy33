@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to Nikita's GitHub! 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Crafting+Web+and+Web3+Applications;Open+to+Collaborations+and+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Crafting+Web+and+Web3+Applications;Open+to+Collaborations" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,7 +45,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loppy33&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=loppy33&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loppy33&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
