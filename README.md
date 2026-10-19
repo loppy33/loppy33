@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://walixway.com"><img src="https://img.shields.io/badge/walixway.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://t.me/codepin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/walixway"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:walixwaycompany@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=loppy33&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
