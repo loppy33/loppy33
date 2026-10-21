@@ -5,7 +5,7 @@
 <p><strong>Full-Stack Engineer · Web3 · AI Integration</strong></p>
 
 <p>
-  <a href="https://walixway.com"><img src="https://img.shields.io/badge/walixway.com-0D1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://walixway.agence"><img src="https://img.shields.io/badge/walixway.agence-0D1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://t.me/walixway"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:walixwaycompany@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/France-0D1117?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
