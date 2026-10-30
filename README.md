@@ -17,7 +17,7 @@
 <br/>
 
 I build end-to-end web products — from database design and APIs to the interface — with a focus on **decentralized applications** and **AI-powered features**.
-Founder of [Walixway](https://walixway.com), an independent web development studio based in France.
+Founder of [Walixway](https://walixway.agency), an independent web development studio based in France.
 
 <br/>
 
